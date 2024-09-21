@@ -1,0 +1,16 @@
+.container{ /*Container*/
+  display: flex;
+  flex-direction: column;
+  padding: 100px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+}
+.label{
+  font-weight: bold;
+}
+.flex{
+  display: flex;
+  gap: 10px;
+}
